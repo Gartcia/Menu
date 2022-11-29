@@ -3,7 +3,7 @@
     margin: 0;
 }
 body{
-    background-image: url(/images/fondo.jpg);
+    background-image: url(images/fondo.jpg);
     backdrop-filter: blur(20px);
     display: flex;
     justify-content: flex-start;
